@@ -2,11 +2,11 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="100%" height="100%" viewBox="0 0 4320 2700" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
     <g transform="matrix(1,0,0,1,-73,205.5)">
-        <g id="fastfetch" transform="matrix(1,0,0,1,2388,716)">
+        <g id="fastfetch" transform="matrix(1,0,0,1,2438,716)">
             <g id="Fastfetch-Window" serif:id="Fastfetch Window" transform="matrix(1,0,0,0.976205,-1342,-610.765)">
                 <g id="Window-Background" serif:id="Window Background">
-                    <g transform="matrix(1,-0,-0,1.02438,-973,-318.309)">
-                        <use xlink:href="#_Image1" x="2294.5" y="505" width="1641px" height="1641px"/>
+                    <g transform="matrix(1,-0,-0,1.02438,-1023,-318.309)">
+                        <use xlink:href="#_Image1" x="2344.5" y="505" width="1641px" height="1641px"/>
                     </g>
                     <g transform="matrix(1.02041,0,0,2.07468,-26.3673,-203.235)">
                         <path d="M2909,213.48L2909,984.52C2909,989.752 2900.57,994 2890.18,994L1359.82,994C1349.43,994 1341,989.752 1341,984.52L1341,213.48C1341,208.248 1349.43,204 1359.82,204L2890.18,204C2900.57,204 2909,208.248 2909,213.48Z" style="fill:#181321;stroke:#46424d;stroke-width:1.87px;"/>
@@ -1203,9 +1203,9 @@
                 </g>
                 <g transform="matrix(-0.145985,0,0,1.02438,1632.36,169.806)">
                     <path d="M1667,145L1804,145L1667,145Z" style="fill:#28c840;"/>
-                    <g transform="matrix(-6.85,0,0,1,17846.7,-476.5)">
-                        <path d="M2353,608L2362,621.5L2353,635" style="fill:none;stroke:#54b99d;stroke-width:6px;stroke-linejoin:miter;stroke-miterlimit:10;"/>
-                        <path d="M2362,621.5L2342,621.5L2362,621.5Z" style="fill:none;stroke:#54b99d;stroke-width:6px;"/>
+                    <g transform="matrix(-6.85,0,0,1,18189.2,-476.5)">
+                        <path d="M2403,608L2412,621.5L2403,635" style="fill:none;stroke:#54b99d;stroke-width:6px;stroke-linejoin:miter;stroke-miterlimit:10;"/>
+                        <path d="M2412,621.5L2392,621.5L2412,621.5Z" style="fill:none;stroke:#54b99d;stroke-width:6px;"/>
                     </g>
                 </g>
             </g>
@@ -1233,14 +1233,14 @@
                 </g>
             </g>
         </g>
-        <g id="icat" transform="matrix(1,0,0,1,-1099.5,992)">
+        <g id="icat" transform="matrix(1,0,0,1,-1149.5,992)">
             <g transform="matrix(1,0,0,1,-217.5,-1290)">
                 <g id="imcat">
                     <g>
                         <g id="Window" transform="matrix(1,0,0,1,578,1467)">
                             <g id="Window-Background1" serif:id="Window Background" transform="matrix(1,0,0,0.75,0,55)">
-                                <g transform="matrix(1,-0,-0,1.33333,812,-1906)">
-                                    <use xlink:href="#_Image2" x="509.5" y="1574" width="1641px" height="761px"/>
+                                <g transform="matrix(1,-0,-0,1.33333,862,-1906)">
+                                    <use xlink:href="#_Image2" x="459.5" y="1574" width="1641px" height="761px"/>
                                 </g>
                                 <g transform="matrix(1.02041,0,0,1.21519,-26.3673,-27.8987)">
                                     <path d="M2909,219.8L2909,978.2C2909,986.92 2902.68,994 2894.89,994L1355.11,994C1347.32,994 1341,986.92 1341,978.2L1341,219.8C1341,211.08 1347.32,204 1355.11,204L2894.89,204C2902.68,204 2909,211.08 2909,219.8Z" style="fill:#181321;stroke:#46424d;stroke-width:3.1px;"/>
@@ -1311,9 +1311,9 @@
                             </g>
                             <g transform="matrix(-0.145985,0,0,1.02438,279.358,1146.55)">
                                 <path d="M1667,145L1804,145L1667,145Z" style="fill:#28c840;"/>
-                                <g transform="matrix(-6.85,0,0,4.26667,5609.17,-7095.53)">
-                                    <path d="M566.5,1683.5L575.5,1697L566.5,1710.5" style="fill:none;stroke:#54b99d;stroke-width:6px;stroke-linejoin:miter;stroke-miterlimit:10;"/>
-                                    <path d="M575.5,1697L555.5,1697L575.5,1697Z" style="fill:none;stroke:#54b99d;stroke-width:6px;"/>
+                                <g transform="matrix(-6.85,0,0,4.26667,5266.67,-7095.53)">
+                                    <path d="M516.5,1683.5L525.5,1697L516.5,1710.5" style="fill:none;stroke:#54b99d;stroke-width:6px;stroke-linejoin:miter;stroke-miterlimit:10;"/>
+                                    <path d="M525.5,1697L505.5,1697L525.5,1697Z" style="fill:none;stroke:#54b99d;stroke-width:6px;"/>
                                 </g>
                             </g>
                         </g>
@@ -1410,12 +1410,12 @@
                 </g>
             </g>
         </g>
-        <g id="home" transform="matrix(1,0,0,1,-1224.5,-197)">
+        <g id="home" transform="matrix(1,0,0,1,-1274.5,-247)">
             <g transform="matrix(1,0,0,1,1114.5,316.5)">
                 <g id="Window1" serif:id="Window" transform="matrix(1,0,0,1,-754,-139.5)">
                     <g id="Window-Background2" serif:id="Window Background" transform="matrix(1,0,0,0.75,0,55)">
-                        <g transform="matrix(1,-0,-0,1.33333,937,-320.667)">
-                            <use xlink:href="#_Image3" x="384.5" y="385" width="1641px" height="1030px"/>
+                        <g transform="matrix(1,-0,-0,1.33333,987,-254)">
+                            <use xlink:href="#_Image3" x="334.5" y="335" width="1641px" height="1030px"/>
                         </g>
                         <g transform="matrix(1.02041,0,0,1.6692,-26.3673,-120.516)">
                             <path d="M2909,219.8L2909,978.2C2909,986.92 2900.31,994 2889.62,994L1360.38,994C1349.69,994 1341,986.92 1341,978.2L1341,219.8C1341,211.08 1349.69,204 1360.38,204L2889.62,204C2900.31,204 2909,211.08 2909,219.8Z" style="fill:#181321;stroke:#46424d;stroke-width:2.63px;"/>
@@ -1444,9 +1444,9 @@
                     </g>
                     <g transform="matrix(-0.145985,0,0,1.02438,279.358,1408.79)">
                         <path d="M1667,145L1804,145L1667,145Z" style="fill:#28c840;"/>
-                        <g transform="matrix(-6.85,0,0,4.26667,4763.2,-3810.2)">
-                            <path d="M443,913.5L452,927L443,940.5" style="fill:none;stroke:#54b99d;stroke-width:6px;stroke-linejoin:miter;stroke-miterlimit:10;"/>
-                            <path d="M452,927L432,927L452,927Z" style="fill:none;stroke:#54b99d;stroke-width:6px;"/>
+                        <g transform="matrix(-6.85,0,0,4.26667,4420.7,-3596.87)">
+                            <path d="M393,863.5L402,877L393,890.5" style="fill:none;stroke:#54b99d;stroke-width:6px;stroke-linejoin:miter;stroke-miterlimit:10;"/>
+                            <path d="M402,877L382,877L402,877Z" style="fill:none;stroke:#54b99d;stroke-width:6px;"/>
                         </g>
                     </g>
                 </g>
